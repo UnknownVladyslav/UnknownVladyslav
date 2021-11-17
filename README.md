@@ -1,5 +1,5 @@
 # 👋 Hi, my name is **Vladyslav Piskun**!
-## I'm a beginner *Front-end developer* from Ukraine.
+## I'm a junior *Front-end developer* from Ukraine.
 ### Check my inst: [_wladislove_](https://www.instagram.com/_wladislove_/)
 ### Languages and technologies
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=JavaScript)
